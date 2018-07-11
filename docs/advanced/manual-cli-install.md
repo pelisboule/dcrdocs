@@ -26,7 +26,7 @@ The newest Binary Releases can be found here: [https://github.com/decred/decred-
 1. Download the correct file:
 
     For 32-bit computers, download the `decred-linux-386-v1.2.0.tar.gz` file. <br />
-    For 64-bit computers, download the `decred-darwin-amd64-v1.2.0.tar.gz` file. <br />
+    For 64-bit computers, download the `decred-linux-amd64-v1.2.0.tar.gz` file. <br />
     For 32-bit ARM computers, download the `decred-linux-arm-v1.2.0.tar.gz` file. <br />
     For 64-bit ARM computers, download the `decred-linux-arm64-v1.2.0.tar.gz` file.
 
